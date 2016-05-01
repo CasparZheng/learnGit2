@@ -9,5 +9,9 @@ add 1 line.
 add 2 line.
 add 3 line.
 add 4 line.
+<<<<<<< HEAD
 remove 1 line unexpected.
+=======
+remove 1 line.
+>>>>>>> 082b443... remove 2 line.
 remove 2 line.
