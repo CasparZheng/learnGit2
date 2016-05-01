@@ -15,3 +15,5 @@ remove 1 line unexpected.
 remove 1 line.
 >>>>>>> 082b443... remove 2 line.
 remove 2 line.
+add 1 line again.
+add 2 line.
