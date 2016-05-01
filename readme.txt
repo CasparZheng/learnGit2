@@ -9,3 +9,5 @@ add 1 line.
 add 2 line.
 add 3 line.
 add 4 line.
+remove 1 line unexpected.
+remove 2 line.
